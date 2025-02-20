@@ -13,7 +13,7 @@ Clone o Repositório: Se você deseja rodar este projeto localmente, você pode 
 
 bash
 
-git clone https://github.com/usuario/projeto.git
+git clone [https://github.com/usuario/projeto.git](https://github.com/eduzimmartins22/DeliciasLU.git)
 
 Abra o arquivo index.html: Depois de clonar o repositório, basta abrir o arquivo index.html no seu navegador para visualizar o site.
 
