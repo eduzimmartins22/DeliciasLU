@@ -13,22 +13,35 @@ Clone o Repositório: Se você deseja rodar este projeto localmente, você pode 
 
 bash
 
-git clone [https://github.com/usuario/projeto.git](https://github.com/eduzimmartins22/DeliciasLU.git)
+git clone [https://github.com/usuario/projeto.git](https://github.com/eduzimmartins22/DeliciasLU.git
+
+
 
 Abra o arquivo index.html: Depois de clonar o repositório, basta abrir o arquivo index.html no seu navegador para visualizar o site.
 
+
+
 Alternar entre os temas: O tema pode ser alternado clicando no ícone de "lua" ou "sol" (dependendo do estado atual) localizado no cabeçalho.
 
+
+
 Responsividade: O design do site é responsivo, o que significa que ele se ajustará automaticamente a diferentes tamanhos de tela. Para testar isso, basta redimensionar a janela do navegador ou usar as ferramentas de desenvolvedor para emular dispositivos móveis.
+
+
 
 Customizações:
 
 Cores e Tipografia: O arquivo styles.css contém variáveis CSS para cores e fontes, facilitando a personalização do visual do site.
 Conteúdo: Alterar ou adicionar conteúdo é simples, basta modificar o HTML das respectivas seções no arquivo index.html.
 
+
+
 Tecnologias Utilizadas
 HTML: Para a estrutura do site.
 CSS: Para o design e layout do site, incluindo a criação de temas claros e escuros.
 JavaScript: Para a interatividade, como a troca de temas e o controle do menu de navegação.
+
+
+
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
